@@ -154,6 +154,6 @@ EMAIL_HOST_PASSWORD = ''
 EMAIL_USE_TLS = False
 
 
-djnago_on_heroku.settings(locals())
+django_on_heroku.settings(locals())
 
 
